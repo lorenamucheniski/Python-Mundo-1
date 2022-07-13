@@ -18,4 +18,4 @@ Os tipos primitivos basicamente são:
 
 Para a saída de dados utiliza-se ****print**** e ****format****. A função Python format() foi introduzida para lidar com formatação de strings complexas com mais eficiência. Os formatadores funcionam colocando um ou mais campos de substituição e espaços reservados definidos por um par de chaves { } e chamando a função ****.format()**** . O Python substituirá os espaços reservados por valores em ordem . 
 
-![](imagem/formato.png_)
+![](/imagem/formato.png)
