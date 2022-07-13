@@ -16,4 +16,6 @@ Os tipos primitivos basicamente são:
 
 ****Str:**** valores de caractes ou strings. Nesse tipo as palavras precisam estar entre aspas simples '' ou duplas "" para caracterizer uma String. Ex: 'Olá', '7.5',  ' ' (string vazia). 
 
-Para a saída de dados utiliza-se ****print**** e ****format****. A função Python format() foi introduzida para lidar com formatação de strings complexas com mais eficiência. Os formatadores funcionam colocando um ou mais campos de substituição e espaços reservados definidos por um par de chaves {} e chamando a função ****.format()**** . O Python substituirá os espaços reservados por valores em ordem . 
+Para a saída de dados utiliza-se ****print**** e ****format****. A função Python format() foi introduzida para lidar com formatação de strings complexas com mais eficiência. Os formatadores funcionam colocando um ou mais campos de substituição e espaços reservados definidos por um par de chaves { } e chamando a função ****.format()**** . O Python substituirá os espaços reservados por valores em ordem . 
+
+![](imagem/formato.png_)
