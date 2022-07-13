@@ -26,6 +26,8 @@ Para a saída de dados utiliza-se ****print**** e ****format****. A função Pyt
 
 ## Operadores Ariméticos
 
+Os operadores aritméticos são utilizados na execução de operações matemáticas, tais como a soma e a subtração, por exemplo. Praticamente, todos os operadores aritméticos funcionam da mesma forma como os conhecemos da matemática elementar. 
+
 ![](/imagem/operadores.png)
 
 
