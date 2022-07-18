@@ -36,3 +36,7 @@ Uma biblioteca é um conjunto de módulos. Portanto, a biblioteca padrão Python
 
 Um módulo nada mais é do que um arquivo .py com instruções e definições em Python. Assim como Java e outras linguagens, no Python é possível trabalhar com módulos instaláveis e com módulos já pré definidos. No exemplo abaixo, criaremos um módulo que representa um círculo. Para isso, criamos um arquivo chamado circulo.py com o seguinte conteúdo:
 
+![](/imagem/criando_modulo.png)
+
+Para usar o módulo acima, podemos fazer como mostrado abaixo:
+
