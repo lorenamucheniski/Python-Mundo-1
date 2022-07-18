@@ -30,5 +30,9 @@ Os operadores aritméticos são utilizados na execução de operações matemát
 
 ![](/imagem/operador2.png)
 
-## Usando Módulos
+## Módulos e Bibliotecas
+
+Uma biblioteca é um conjunto de módulos. Portanto, a biblioteca padrão Python é um conjunto de módulos disponíveis em Python para que você possa importá-los e usar as funcionalidades deles quando bem quiser.
+
+Um módulo nada mais é do que um arquivo .py com instruções e definições em Python. Assim como Java e outras linguagens, no Python é possível trabalhar com módulos instaláveis e com módulos já pré definidos. No exemplo abaixo, criaremos um módulo que representa um círculo. Para isso, criamos um arquivo chamado circulo.py com o seguinte conteúdo:
 
