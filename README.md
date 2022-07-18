@@ -40,3 +40,5 @@ Um módulo nada mais é do que um arquivo .py com instruções e definições em
 
 Para usar o módulo acima, podemos fazer como mostrado abaixo:
 
+![](/imagem/import.png)
+
