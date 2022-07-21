@@ -8,7 +8,9 @@ Curso criado pelo Prof. Gustavo Guanabara, é dividido em mundos para facilitar 
 
 2- Operadores Aritméticos
 
-## Tipos Primitivos e Saída de Dados
+3- Módulos e Bibliotecas
+
+## 1- Tipos Primitivos e Saída de Dados
 
 Os tipos primitivos basicamente são: 
 
@@ -24,11 +26,21 @@ Para a saída de dados utiliza-se ****print**** e ****format****. A função Pyt
 
 ![](/imagem/format.png)
 
-## Operadores Ariméticos
+## 2- Operadores Ariméticos
 
 Os operadores aritméticos são utilizados na execução de operações matemáticas, tais como a soma e a subtração, por exemplo. Praticamente, todos os operadores aritméticos funcionam da mesma forma como os conhecemos da matemática elementar. Vejamos na tabela a lista deles:
 
 ![](/imagem/operador2.png)
 
-## Usando Módulos
+## 3- Módulos e Bibliotecas
+
+Uma biblioteca é um conjunto de módulos. Portanto, a biblioteca padrão Python é um conjunto de módulos disponíveis em Python para que você possa importá-los e usar as funcionalidades deles quando bem quiser.
+
+Um módulo nada mais é do que um arquivo .py com instruções e definições em Python. Assim como Java e outras linguagens, no Python é possível trabalhar com módulos instaláveis e com módulos já pré definidos. No exemplo abaixo, criaremos um módulo que representa um círculo. Para isso, criamos um arquivo chamado circulo.py com o seguinte conteúdo:
+
+![](/imagem/criando_modulo.png)
+
+Para usar o módulo acima, podemos fazer como mostrado abaixo:
+
+![](/imagem/import.png)
 
